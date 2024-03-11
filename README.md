@@ -8,6 +8,18 @@ _Images may be out of date, I'll update them when the face goes into general ava
 
 # Releases
 
+## v0.4.0
+- 4 color options (all the dark variants):
+  - Monokai
+  - Abyss
+  - Dark+
+  - Kimbie
+- Tab title color changes based on events in this order:
+  - Battery < 20%: red
+  - Notification count > 0: green
+  - Default: white-ish
+- Move complications into a status bar
+
 ## v0.3.0
 - Tab bar lines
 
