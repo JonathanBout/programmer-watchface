@@ -1,7 +1,41 @@
 # Programmer Watchface
 _Images may be out of date, I'll update them when the face goes into general availability._
 
-<img src="images/screenshot.png" width=200 height=200 />
+## Available color schemes
+_Themes are **inspired by**, not copies of ..._
+
+<div>
+  <table>
+    <tr>
+      <td>
+        <img src="images/per-theme/Monokai.png" width=200 height=200 />
+      </td>
+      <td>
+        <img src="images/per-theme/Abyss.png" width=200 height=200 />
+      </td>
+      <td>
+        <img src="images/per-theme/Dark-plus.png" width=200 height=200 />
+      </td>
+      <td>
+        <img src="images/per-theme/Kimbie.png" width=200 height=200 />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Monokai
+      </td>
+      <td>
+        Abyss
+      </td>
+      <td>
+        Dark+
+      </td>
+      <td>
+        Kimbie
+      </td>
+    </tr>
+  </table>
+</div>
 
 **If you want access**
 - send me a DM on reddit: [u/jonathanbout](https://www.reddit.com/user/JonathanBout/)
