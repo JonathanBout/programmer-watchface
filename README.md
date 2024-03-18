@@ -42,6 +42,12 @@ _Themes are **inspired by**, not copies of ..._
 
 # Releases
 
+## v0.4.1
+- Notification bell
+- UI tweaks
+  - re-align text as it wasn't monospaced correctly
+  - other alignment and placement issues
+
 ## v0.4.0
 - 4 color options (all the dark variants):
   - Monokai
