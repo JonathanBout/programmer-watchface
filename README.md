@@ -42,6 +42,9 @@ _Themes are **inspired by**, not copies of ..._
 
 # Releases
 
+## v0.4.2
+- Arrow when charging
+
 ## v0.4.1
 - Notification bell
 - UI tweaks
