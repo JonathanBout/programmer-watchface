@@ -1,5 +1,4 @@
 # Programmer Watchface
-_Images may be out of date, I'll update them when the face goes into general availability._
 
 ## Available color schemes
 _Themes are **inspired by**, not copies of ..._
@@ -37,13 +36,18 @@ _Themes are **inspired by**, not copies of ..._
   </table>
 </div>
 
-**If you want access**
+There's also a "Dark 2026" theme available (but I'm too lazy to make a screenshot for it, sorry)
+
+**If you have any questions**
 - send me a DM on reddit: [u/jonathanbout](https://www.reddit.com/user/JonathanBout/)
 
 # Releases
 
+## v0.5.0
+- Add a new theme (Dark 2026)
+
 ## v0.4.2
-- Arrow when charging
+- Arrow next to battery level when charging
 
 ## v0.4.1
 - Notification bell
